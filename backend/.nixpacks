@@ -1,0 +1,4 @@
+providers:
+  node:
+    startCmd: npm start
+    installCmd: npm install

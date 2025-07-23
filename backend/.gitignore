@@ -1,0 +1,28 @@
+# All git ignored files, lets go!
+
+# Nodejs. express. env, pacjkagelock etc.
+node_modules/
+npm-debug.log
+# Environment variables
+.env
+# Logs
+logs/
+*.log
+pids/
+# Temporary files
+tmp/    
+# Build directories
+dist/
+build/  
+# Coverage reports
+coverage/
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+
+# Python specific files
+__pycache__/
